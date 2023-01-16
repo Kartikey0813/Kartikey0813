@@ -1,6 +1,9 @@
 # 💫 About Me:
-🌱 I’m currently learning REACT.JS<br>👯 I’m looking to collaborate on LinkedIn<br>🤔 I’m looking for help with developing AI skills..<br>💬 Ask me about any REACT.JS related stuff<br>📫 you can reach me at kartikmishra686@gmail.com<br>😄 Pronouns: He/Him <br> Portfolio :- http://kartikey0813.github.io
+🌱 I’m currently learning REACT.JS<br>👯 I’m looking to collaborate on LinkedIn<br>🤔 I’m looking for help with developing AI skills..<br>💬 Ask me about any REACT.JS related stuff<br>📫 you can reach me at kartikmishra686@gmail.com<br>😄 Pronouns: He/Him <br> <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt=""> Portfolio :- http://kartikey0813.github.io <br><br>
 
+<p stye="text-align:center; font-size:24px; color:black">Full Stack Web Developer </p>
+<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="fsd" >
+<br> <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_a_r_t_i_k__2202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikey-mishra-2734b5209) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kartik_mishra_2) 
@@ -12,8 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kartikey0813&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey0813&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/kartik_mishra_2)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
