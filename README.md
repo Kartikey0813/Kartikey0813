@@ -3,7 +3,7 @@
 
 <div margin="auto">
   <p align="center" fontSize="20px"; font-size:24px; color:black">Full Stack Web Developer </p>
-  <p align="center" > <img   src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="fsd" > </p>
+  <p align="center" > <img   src="https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif" alt="fsd" > </p>
   <br> <br>
 </div>
 
