@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning REACT.JS<br>👯 I’m looking to collaborate on LinkedIn<br>🤔 I’m looking for help with developing AI skills..<br>💬 Ask me about any REACT.JS related stuff<br>📫 you can reach me at kartikmishra686@gmail.com<br>😄 Pronouns: He/Him
+🌱 I’m currently learning REACT.JS<br>👯 I’m looking to collaborate on LinkedIn<br>🤔 I’m looking for help with developing AI skills..<br>💬 Ask me about any REACT.JS related stuff<br>📫 you can reach me at kartikmishra686@gmail.com<br>😄 Pronouns: He/Him <br> Portfolio :- http://kartikey0813.github.io
 
 
 ## 🌐 Socials:
