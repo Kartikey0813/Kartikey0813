@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning REACT.JS<br>👯 I’m looking to collaborate on LinkedIn<br>🤔 I’m looking for help with developing AI skills..<br>💬 Ask me about any REACT.JS related stuff<br>📫 you can reach me at kartikmishra686@gmail.com<br>😄 Pronouns: He/Him <br> <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt=""> Portfolio :- http://kartikey0813.github.io <br><br>
+🌱 I’m currently learning REACT.JS<br>👯 I’m looking to collaborate on LinkedIn<br>🤔 I’m looking for help with developing AI skills..<br>💬 Ask me about any REACT.JS related stuff<br>📫 you can reach me at kartikmishra686@gmail.com<br>😄 Pronouns: He/Him <br> <img style="width:30px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt=""> Portfolio :- http://kartikey0813.github.io <br><br>
 
 <p stye="text-align:center; font-size:24px; color:black">Full Stack Web Developer </p>
-<img style="width:30px"  src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="fsd" >
+<img style="text-align:center"  src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="fsd" >
 <br> <br>
 
 ## 🌐 Socials:
