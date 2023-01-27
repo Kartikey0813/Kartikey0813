@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kartik_mishra_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikey-mishra" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kartikey-mishra-2734b5209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikey-mishra" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/Kartikey0813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kartikey-mishra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikmishra686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikey-mishra" height="30" width="40" /></a>
+<a href="https://twitter.com/kartik_mishra_2" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="kartikey-mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartikey-mishra-2734b5209/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="kartikey-mishra" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/Kartikey0813" target="blank"><img align="center" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" alt="kartikey-mishra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kartikmishra686" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="kartikey-mishra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3> 
