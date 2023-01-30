@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *kartikmishra686@gmail.com*
 
-- 📫Portfolio *https://kartikey0813.github.io*
+- 📫Portfolio *https://kartikey0813.github.io/*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
