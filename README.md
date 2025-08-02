@@ -1,69 +1,170 @@
-<!-- <div align="center">
- <img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="gif" />
-</div>
-<hr/> -->
-![Visitor-Count](https://profile-counter.glitch.me/{kartikey0813}/count.svg)
+# Technical Analyst GitHub README
 
+## 🚀 About Me
 
+I am a Technical Support / Technical Analyst focused on bridging customer needs with reliable technical solutions. I specialize in troubleshooting, API debugging, database diagnostics (MySQL/MongoDB), observability, and incident resolution. My GitHub serves as both a technical portfolio and a living record of continuous learning and contribution.
 
+## 📊 GitHub Contribution Insights
 
-<h1 align="center">Hi 👋, I'm Kartikey Mishra</h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=007FFF&lines=Aspiring+Full+Stack+Developer+%3A)" /></h3>
+This section visualizes contribution activity over time to reflect consistency, growth, and focus areas.
 
-<!-- <h3 align="center">A Passionate Full-Stack Developer</h3> -->
-<img align="right" alt="coding" width="450" src="https://wallpapercave.com/wp/wp6784380.jpg">
+### Contribution Graphs
 
-- 🌱 I’m currently learning *React, Node.js, Typescript, MongoDB, Express.js*
+* **Weekly, Monthly, and Yearly Graphs**: These display commit frequency, issue activity, pull requests, and repository contributions aggregated over time.
+* **Languages & Project Distribution**: Breakdown of activity by language, repository, and type (code vs. docs vs. automation).
 
-- 💬 Ask me about *react,javascript, typescript.*
+### How the Graphs are Generated
 
-- 📫 How to reach me *kartikmishra686@gmail.com*
+You can generate the graphs locally or in CI using the included script (`scripts/contrib_stats.py`). It pulls your GitHub activity via the REST API, aggregates it, and renders:
 
-- 📫Portfolio *https://kartikey0813.github.io/*
+* Commits per week (last 52 weeks)
+* Commits per month (last 12 months)
+* Commits per year (multi-year if applicable)
+* Issue and PR activity over the same intervals
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kartik_mishra_2" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="kartikey-mishra" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kartikey-mishra-2734b5209/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="kartikey-mishra" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/Kartikey0813" target="blank"><img align="center" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" alt="kartikey-mishra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikmishra686" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="kartikey-mishra" height="30" width="40" /></a>
-</p>
+#### Example Python Usage (skeleton):
 
-<h3 align="left">Languages and Tools:</h3> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<hr/>
+```python
+import os
+import requests
+import pandas as pd
+import matplotlib.pyplot as plt
+from datetime import datetime
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikey0813&show_icons=true&locale=en&layout=compact" alt="kartikey0813" /></p>
+GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')  # set this in environment for authenticated rate limits
+USERNAME = 'your-github-username'
+HEADERS = {'Authorization': f'token {GITHUB_TOKEN}'}
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikey0813&show_icons=true&locale=en" alt="kartikey0813" /></p>
+# Fetch events (paginated) and extract dates
+def fetch_events(page=1):
+    url = f'https://api.github.com/users/{USERNAME}/events/public?page={page}&per_page=100'
+    resp = requests.get(url, headers=HEADERS)
+    resp.raise_for_status()
+    return resp.json()
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey0813&" alt="kartikey0813" /></p> 
+# Aggregate event dates
+all_dates = []
+for page in range(1, 6):  # adjust upper bound if necessary
+    events = fetch_events(page)
+    if not events:
+        break
+    for e in events:
+        dt = datetime.fromisoformat(e['created_at'].replace('Z', '+00:00'))
+        all_dates.append(dt)
 
-<details>
-  <summary><b>📊&nbsp;&nbsp;Activity in this year</b></summary>
-  <br />
-  <a href="https://github.com/kartikey0813">
-    <img alt="Kartikey's Activity Graph last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikey0813&theme=github_dark" />
-  </a>
-</details>
+# Build DataFrame
+df = pd.DataFrame({'created_at': all_dates})
+df.set_index('created_at', inplace=True)
 
+# Weekly aggregation
+weekly = df.resample('W').size()
+monthly = df.resample('M').size()
+yearly = df.resample('Y').size()
 
-<details open>
-  <summary><b>📊&nbsp;&nbsp;Activity in the month</b></summary>
-  <br />
-  <a href="https://github.com/kartikey0813">
-    <img alt="Kartikey's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Kartikey0813&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
-</details>
-<div align="center">
-	### ✍️ Random Dev Quote
-  <P> Eat, Sleep, Code and Repeat</p>
-<!--  [](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
+# Plotting (example for weekly)
+plt.figure()
+weekly.plot(title='Weekly GitHub Activity')
+plt.xlabel('Week')
+plt.ylabel('Event Count')
+plt.tight_layout()
+plt.savefig('graphs/weekly_activity.png')
+```
 
-<!-- [](https://visitcount.itsvg.in/api?id=kartikey0813&icon=5&color=0)](https://visitcount.itsvg.in) -->
+You can extend this to include:
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/kartikmishy) 
+* Filtering by event type (PushEvent, PullRequestEvent, IssuesEvent)
+* Language detection per repository via the GitHub Languages API
+* Normalizing by working days vs. weekend spikes
 
-</div>
+## 🧰 Repository & Project Portfolio Website
+
+Showcase your projects dynamically via a portfolio site. Recommended setup:
+
+### Features
+
+* Auto-populate GitHub projects using GitHub API
+* Display key metrics per project: stars, forks, last updated, primary language
+* Highlight featured repositories (e.g., support tools, dashboards, automation scripts)
+* Embed contribution graphs
+* Responsive layout, deployed via **GitHub Pages**
+
+### Example `index.html` snippet (static starter):
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Technical Analyst Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@latest/dist/tailwind.min.css" />
+</head>
+<body class="bg-gray-50 font-sans">
+  <div class="max-w-5xl mx-auto p-6">
+    <h1 class="text-4xl font-bold mb-2">Technical Analyst Portfolio</h1>
+    <p class="mb-6">Live GitHub activity and featured projects.</p>
+    <section id="contributions">
+      <h2 class="text-2xl font-semibold">Contribution Overview</h2>
+      <img src="graphs/weekly_activity.png" alt="Weekly Activity" class="my-4 rounded shadow" />
+      <!-- Add other graphs similarly -->
+    </section>
+    <section id="projects">
+      <h2 class="text-2xl font-semibold mt-8">Featured Projects</h2>
+      <div id="repo-list" class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">
+        <!-- JS will populate this -->
+      </div>
+    </section>
+  </div>
+  <script>
+    const username = 'your-github-username';
+    fetch(`https://api.github.com/users/${username}/repos?per_page=100&sort=updated`)
+      .then(res => res.json())
+      .then(repos => {
+        const container = document.getElementById('repo-list');
+        repos.slice(0, 6).forEach(r => { // top 6
+          const card = document.createElement('div');
+          card.className = 'border rounded p-4 bg-white shadow';
+          card.innerHTML = `
+            <h3 class='text-xl font-medium'><a href='${r.html_url}' target='_blank'>${r.name}</a></h3>
+            <p class='text-sm text-gray-600'>${r.description || ''}</p>
+            <div class='mt-2 flex gap-3 text-xs'>
+              <span>⭐ ${r.stargazers_count}</span>
+              <span>🍴 ${r.forks_count}</span>
+              <span>🛠 ${r.language || '—'}</span>
+            </div>
+          `;
+          container.appendChild(card);
+        });
+      });
+  </script>
+</body>
+</html>
+```
+
+### Deployment
+
+1. Push the repository to GitHub with the portfolio in `index.html`.
+2. Enable **GitHub Pages** from repository settings (use `main` branch or `/docs` folder).
+3. Ensure `graphs/` and any generated images are committed or generated at build time (you can automate updates with GitHub Actions).
+
+## 📈 Automation Ideas
+
+* GitHub Action to refresh contribution graphs daily and commit updated images.
+* CI step that fetches latest repo metadata and regenerates a summary JSON consumed by the portfolio page.
+* Slack or email notification when a new significant contribution happens (e.g., high-star project update).
+
+## 📝 Interview & Branding Tips
+
+* Embed this README link in your interview portfolio or resume.
+* Talk through one or two projects and show your contribution graphs as evidence of consistency.
+* Describe how you built the portfolio site, the data pipeline for graphs, and how you use it to monitor your technical growth.
+
+## 📫 Contact
+
+* GitHub: `https://github.com/your-github-username`
+* Email: [your.email@example.com](mailto:your.email@example.com)
+* Portfolio: `https://your-github-username.github.io/`
+
+---
+
+*Replace placeholder usernames, tokens, and paths with your real values. Keep your GitHub token scoped minimally (read-only) and stored securely (e.g., in environment variables).*
