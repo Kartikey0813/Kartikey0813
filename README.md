@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MongoDB, SQL and Grafana**
 
-- 📫 How to reach me **kartikeymishra509@gmail.com**
+- 📫 How to reach me **kartikmishra686@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
